@@ -1,0 +1,49 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "HD bluetooth headphones",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/REAL_BLUE_2021/real_blue_2021-black-set.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Wireless in-ear headphones",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/REAL_BLUE_TWS_2/real-blue-tws-2-black-hero-04-1300x1300x72.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Professional in-ear sports earphones",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/AIRY_SPORTS/airy-sports-main-night-black.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Theater Denon X3800H",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/T_500_Mk3/THEATER_500_DENON_DRA-800H_DUAL_DT_500-black-Set.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Teufel STEREO M",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/Teufel_Stereo_M/teufel-stereo-m-main-black-1300x1300x72.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Portable bluetooth stereo speaker",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/MOTIV_GO_VOICE/motiv-go-voice-black-angled-01-1300x1300x72.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Portable Multifunctional Radio",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_365,q_auto,w_365/v1/products/Radio_3sixty/ECN/radio3sixty-2022-main-black-1300x1300x72.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mickie party mix",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_473,q_auto,w_473/v1/products/MACKIE/MIX%205/mix5-3qtr-left-1300x1300x72.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Pioneer DJ mix",
+        "image": "https://res.cloudinary.com/lautsprecher-teufel/image/upload/c_lfill,f_auto,h_473,q_auto,w_473/v1/products/PIONEER/DDJ-800/DDJ-800_prm_frontangle_190218-1300x1300.jpg"
+      }
+    ]
+  }
